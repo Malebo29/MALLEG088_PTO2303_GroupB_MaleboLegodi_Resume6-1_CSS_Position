@@ -67,6 +67,8 @@ button:hover {
 }
 .header-content {
     padding: 3rem;
+    position: absolute;
+    left: 350px;
 }
 #header-image {
     border-radius: 10%;
